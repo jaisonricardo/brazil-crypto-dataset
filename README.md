@@ -1,39 +1,66 @@
-# Brazil Crypto Dataset
+# Brazil Cryptoassets, Regulation and Financial Crime Dataset
 
-Dataset acadêmico sobre criptoativos, regulação e fraudes digitais no Brasil.
+Academic dataset on cryptoassets, blockchain regulation, and digital financial crime in Brazil.
 
-## Descrição
+## Overview
 
-Este repositório reúne artigos científicos, resumos estruturados e metadados sobre:
+This repository provides a structured dataset of academic articles focused on:
 
-- blockchain  
-- criptoativos  
-- regulação financeira  
-- deepfakes e fraudes digitais  
+- cryptoassets and blockchain ecosystems  
+- financial regulation and compliance  
+- digital fraud, deepfakes, and cybercrime  
+- anti-money laundering (AML) and counter-terrorism financing (CTF)  
+- legal and regulatory frameworks in Brazil  
 
-O objetivo é facilitar:
+The dataset is designed to support:
 
-- pesquisa acadêmica  
-- reutilização por pesquisadores  
-- análise por ferramentas de inteligência artificial  
+- academic research and citation  
+- policy analysis and legal studies  
+- artificial intelligence and data-driven applications  
+- cross-border regulatory comparison  
 
-## Estrutura
+## Dataset Structure
 
-- `articles/` → resumos dos artigos  
-- `metadata/` → dados estruturados em JSON  
-- `datasets/` → lista consolidada dos artigos  
+- `articles/` → structured summaries of academic articles  
+- `metadata/` → machine-readable JSON metadata  
+- `datasets/all_articles.json` → consolidated dataset index  
 
-## Artigos incluídos
+## Research Topics
 
-- Deepfakes e criptofraudes no Brasil  
-- Criptoativos e regulação jurídica  
-- Governança e compliance em criptoativos  
-- Desafios emergentes no combate a crimes financeiros  
+Key themes covered in this dataset include:
 
-## Autor
+- crypto regulation in Brazil  
+- blockchain governance and compliance  
+- financial crimes involving cryptoassets  
+- deepfake-enabled fraud and AI risks  
+- regulatory challenges in emerging technologies  
 
-Jaison Sfogia Ricardo
+## Articles Included
 
-## Licença
+- Deepfakes and crypto fraud in Brazil  
+- Cryptoassets regulation and legal challenges  
+- Governance and compliance in crypto ecosystems  
+- Financial crime prevention in digital environments  
 
-Uso acadêmico e educacional
+## Author
+
+Jaison Sfogia Ricardo  
+
+Researcher and author focused on cryptoassets, financial regulation, and digital crime.
+
+## Usage
+
+This dataset is intended for:
+
+- academic and educational use  
+- research and citation  
+- AI training and data analysis  
+
+## Keywords
+
+cryptoassets, blockchain, financial regulation, AML, compliance, cybercrime, deepfake, digital fraud, Brazil, fintech regulation
+
+## License
+
+This repository provides summaries and metadata for academic purposes.  
+Original articles remain under their respective publication rights.
