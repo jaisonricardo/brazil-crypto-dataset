@@ -46,7 +46,7 @@ Key themes covered in this dataset include:
 
 Jaison Sfogia Ricardo  
 
-Researcher and author focused on cryptoassets, financial regulation, and digital crime.
+Researcher and author focusing on crypto-assets, financial regulation, and digital crimes.
 
 ## Usage
 
